@@ -1,1 +1,1 @@
-
+[![codecov](https://codecov.io/gh/gitcloneguy/rpi-temp/branch/master/graph/badge.svg)](https://codecov.io/gh/gitcloneguy/rpi-temp) [![Build Status](https://travis-ci.com/gitcloneguy/rpi-temp.svg?branch=master)](https://travis-ci.com/gitcloneguy/rpi-temp)
